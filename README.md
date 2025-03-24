@@ -38,7 +38,7 @@ passed to it
 
 ![Option B, as shown in the terminal](images/b_terminal.png)
 
-### /fossils/<country> GET
+### /fossils/COUNTRYNAME GET
 By selecting option C, or opening http://127.0.0.1:5000/fossils/<country_name> in 
 a browser tab, you are able to view fossils found in the country chosen. NOTE:
 When separating spaces in a country, e.g. United States of America, replace
